@@ -1,0 +1,6 @@
+hong chang chaofan,22RMB,20
+huangjin da pai fan,20RMB,19
+huotui chaofan,18RMB,6
+qingjiao niurou,dan chaofan 16RMB,9
+shengcai niurou,chaofan 21RMB,0
+sha-cha niu song fan,25RMB,11

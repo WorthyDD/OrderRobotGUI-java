@@ -1,0 +1,6 @@
+zhajiang noodle,10RMB,8
+liangban noodle,15RMB,9
+chao noodle,12RMB,7
+regan noodle,10RMB,10
+liang noodle,12RMB,0
+tomato noodle,12RMB,3

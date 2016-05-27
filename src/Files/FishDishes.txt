@@ -1,0 +1,6 @@
+shuizhu fish,20RMB,5
+hongshao fish,34RMB,7
+xue fish,19RMB,8
+koushui fish,38RMB,6
+suancai fish,18RMB,10
+tangcu fish,24RMB,1

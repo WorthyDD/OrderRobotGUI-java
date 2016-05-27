@@ -1,0 +1,6 @@
+Black tea,10RMB,5
+Green tea,10RMB,4
+Coffee with milk,20RMB,9
+Cocoa,6RMB,20
+Soda water,3RMB,19
+Wine,30RMB,3

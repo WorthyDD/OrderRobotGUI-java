@@ -1,0 +1,6 @@
+hongyou zhu er,30RMB,5
+Meat ball,28RMB,9
+Fish ball,24RMB,7
+guobao meat,27RMB,6
+gongbao chicken,23RMB,4
+huiguo meat,30RMB,10
